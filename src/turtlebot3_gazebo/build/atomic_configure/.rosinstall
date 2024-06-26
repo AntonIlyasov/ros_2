@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/anton202/study/robot_programming/ros_2/src/turtlebot3_gazebo/build/devel/setup.sh
